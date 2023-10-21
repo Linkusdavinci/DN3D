@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/git/DN3D/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/git/DN3D/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/git/DN3D/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/EnhancedInput/IA_Forward.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/EnhancedInput/IMC_EditMode.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/BP_EditorPC.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/BP_EditorGM.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/BP_EditorChar.uasset",
+				"D:/git/DN3D/Content/Maps/TestMap.umap",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/EnhancedInput/IA_EditMove.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/EnhancedInput/IA_EditLook.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/EnhancedInput/IA_EditRightClick.uasset",
+				"D:/git/DN3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/IMC_EditMode.uasset",
+				"D:/git/DN3D/Content/PlayerCharacter/EditMode/IA_Forward.uasset"
+			]
+		}
+	]
+}
